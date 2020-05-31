@@ -6,6 +6,7 @@ Create Simple Files Sharing Server
 # Setup
 # Run as root
    ~# chmod 777 *
+   
    ~# ./install.sh
    
    ![Screenshot from 2020-05-31 22-07-35](https://user-images.githubusercontent.com/47662329/83360882-57faec80-a38d-11ea-96dc-e9da72f21b8d.png)
